@@ -49,5 +49,15 @@ public class TernaryOperator {
         msg = score >= 65 ? "합격" : "불합격" ;
         message = score + "점이므로 " + msg + "입니다. ";
         System.out.println(message);
+
+        int i = (int)12.6;
+        System.out.println((double)i);
+
+        int result2 = 'a';  // 'a'는 askii 코드로 97이다
+        System.out.println(result2);
+        result2 = 'b';
+        System.out.println(result2);
+
+        System.out.println('a'-'b');
     }
 }
