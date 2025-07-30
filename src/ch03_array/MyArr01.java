@@ -1,4 +1,4 @@
-package ch02_control_statement;
+package ch03_array;
 
 public class MyArr01 {
     public static void main(String[] args) {
