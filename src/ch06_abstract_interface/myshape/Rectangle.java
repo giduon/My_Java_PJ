@@ -1,4 +1,4 @@
-package ch06_abstract_interface;
+package ch06_abstract_interface.myshape;
 
 public class Rectangle extends Shape {
     private double width ; // 너비

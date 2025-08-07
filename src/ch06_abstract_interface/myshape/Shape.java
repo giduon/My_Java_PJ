@@ -1,4 +1,4 @@
-package ch06_abstract_interface;
+package ch06_abstract_interface.myshape;
 
 public abstract class Shape {
     //일반화 : 모든 도형에서 사용하는 면적, 둘레, 라인 색상, 채우기 색상등은 슈퍼 클래스에서 사용합니다.
