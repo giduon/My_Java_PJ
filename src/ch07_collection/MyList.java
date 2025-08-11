@@ -5,7 +5,7 @@ import java.util.List;
 
 public class MyList {
     public static void main(String[] args) {
-        List<String> coffeList = new ArrayList<String>(); // '<String>' 으로 문자열만으로 제한, 2가지 이상 타입은 Object사용
+        List<String> coffeList = new ArrayList<String>(); // '<String>' 으로 문자열만으로 제한(바리게이트로 이해해), 2가지 이상 타입은 Object사용
         coffeList.add("아메리카노");
         coffeList.add("카페라떼");
         coffeList.add("에스프레소");
